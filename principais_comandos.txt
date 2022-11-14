@@ -1,0 +1,18 @@
+Principais comandos aprendidos:
+git init para inicias
+git add . para adicionar todos os arquivos ao stage
+code . para abrir arquivos no vscode
+touch para criar novo arquivo
+git status para verificar status
+clear para limpar o console
+git clone nome_endereço para clonar repositório
+git commit -m '' para fazer commit
+git checkout nome_branch para ir para outra nome_branch
+git branch mostra as branchs existentes no projeto
+git branch nome_da_branch para criar uma branch
+git branch -D nome_da_branch para excluir branch
+git checkout -b nome_da_branch para criar uma branch e ir pra ela direto sem usar outros comandos
+git merge nome_da_branch_que_quero_adicionar para adicionar a branch de um ramo para outro
+git remote add origin  para adicionar uma origem remota, ou seja, linkar o projeto da maquina com o projeto do github
+git pull origin main para baixar os códigos da main do github
+git push origin main para subir os códigos para o github
