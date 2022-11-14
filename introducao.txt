@@ -1,0 +1,1 @@
+Aprendi que GIt é um sistema de controle de versão e que o Github é um serviço de hospedagem para projetos Git.
